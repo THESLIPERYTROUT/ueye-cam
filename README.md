@@ -49,3 +49,7 @@ ueye-cam stream -e 10 -n 100
 ```
 
 `python -m ueye_cam ...` works the same way.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
